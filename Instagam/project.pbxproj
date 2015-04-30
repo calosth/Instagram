@@ -174,7 +174,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EFCBBCCD1AF180B4003A6323 /* Build configuration list for PBXProject "Instragram" */;
+			buildConfigurationList = EFCBBCCD1AF180B4003A6323 /* Build configuration list for PBXProject "Instagram" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -401,7 +401,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EFCBBCCD1AF180B4003A6323 /* Build configuration list for PBXProject "Instragram" */ = {
+		EFCBBCCD1AF180B4003A6323 /* Build configuration list for PBXProject "Instagram" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EFCBBCEF1AF180B5003A6323 /* Debug */,

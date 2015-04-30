@@ -59,7 +59,7 @@
             BlueprintIdentifier = "EFCBBCD11AF180B5003A6323"
             BuildableName = "Instragram.app"
             BlueprintName = "Instragram"
-            ReferencedContainer = "container:Instragram.xcodeproj">
+            ReferencedContainer = "container:Instagam">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -79,7 +79,7 @@
             BlueprintIdentifier = "EFCBBCD11AF180B5003A6323"
             BuildableName = "Instragram.app"
             BlueprintName = "Instragram"
-            ReferencedContainer = "container:Instragram.xcodeproj">
+            ReferencedContainer = "container:Instagam">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
