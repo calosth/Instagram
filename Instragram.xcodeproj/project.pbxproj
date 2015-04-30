@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF77F6651AF26EE200436362 /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF77F6641AF26EE200436362 /* HomeTableViewController.swift */; };
+		EF77F6671AF26F9C00436362 /* HomeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF77F6661AF26F9C00436362 /* HomeCell.swift */; };
 		EFCBBCD81AF180B5003A6323 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFCBBCD71AF180B5003A6323 /* AppDelegate.swift */; };
 		EFCBBCDA1AF180B5003A6323 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFCBBCD91AF180B5003A6323 /* ViewController.swift */; };
 		EFCBBCDD1AF180B5003A6323 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFCBBCDB1AF180B5003A6323 /* Main.storyboard */; };
@@ -26,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EF77F6641AF26EE200436362 /* HomeTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
+		EF77F6661AF26F9C00436362 /* HomeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeCell.swift; sourceTree = "<group>"; };
 		EFCBBCD21AF180B5003A6323 /* Instragram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instragram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFCBBCD61AF180B5003A6323 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EFCBBCD71AF180B5003A6323 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -83,6 +87,8 @@
 				EFCBBCDE1AF180B5003A6323 /* Images.xcassets */,
 				EFCBBCE01AF180B5003A6323 /* LaunchScreen.xib */,
 				EFCBBCD51AF180B5003A6323 /* Supporting Files */,
+				EF77F6641AF26EE200436362 /* HomeTableViewController.swift */,
+				EF77F6661AF26F9C00436362 /* HomeCell.swift */,
 			);
 			path = Instragram;
 			sourceTree = "<group>";
@@ -212,7 +218,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF77F6651AF26EE200436362 /* HomeTableViewController.swift in Sources */,
 				EFCBBCDA1AF180B5003A6323 /* ViewController.swift in Sources */,
+				EF77F6671AF26F9C00436362 /* HomeCell.swift in Sources */,
 				EFCBBCD81AF180B5003A6323 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -409,6 +417,7 @@
 				EFCBBCF31AF180B5003A6323 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EFCBBCF41AF180B5003A6323 /* Build configuration list for PBXNativeTarget "InstragramTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +426,7 @@
 				EFCBBCF61AF180B5003A6323 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
